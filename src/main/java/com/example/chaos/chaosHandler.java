@@ -1,4 +1,4 @@
-package chaos;
+package com.example.chaos;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
